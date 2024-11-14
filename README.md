@@ -1,1 +1,1 @@
-Link: https::/https://clinicalacruz.online/frontend/login.php
+Link: https://clinicalacruz.online/frontend/login.php
