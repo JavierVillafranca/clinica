@@ -1,1 +1,1 @@
-clinicalacruz.online
+clinicalacruz.com
