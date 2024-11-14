@@ -44,7 +44,7 @@ $stmt = $connect->prepare('SELECT id, username, name, password, rol FROM users W
                 header('Location: admin/escritorio.php');
               }
           elseif($_SESSION['rol'] == 2){
-                header('Location: admin/escritorio.php');
+                header('Location: recepcion/escritorio.php');
               } 
           elseif($_SESSION['rol'] == 3){
                 header('Location: usuarios/escritorio.php');
