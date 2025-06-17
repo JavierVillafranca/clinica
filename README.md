@@ -1,1 +1,1 @@
-Link: https://clinicalacruz.online/frontend/login.php
+Link: https://centromedicolc.infinityfreeapp.com/
